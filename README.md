@@ -1,0 +1,1 @@
+I have build a regression model that predicts house price that precits but price is not exact because of the dataset the correlation of features are less than 0.1 so the RMSE ,MSE<MAE are high nothing else model predicts good on the prediction
